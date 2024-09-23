@@ -15,12 +15,12 @@ const Home = () => {
           <div className="flex flex-col justify-center h-full">
             
             <h2 className="text-white text-4xl font-bold md:text-7xl xs:text-center">
-              I&#39;m FrontEnd Developer
+              I&#39;m Fullstack Developer
             </h2>
 
             <p className="text-gray-500 py-4 max-w-md ">
-              Passionate Frontend developer with comprehensive training in HTML,
-              CSS, JavaScript, ES6, TailwindCSS, ReactJS, Redux.
+              Passionate Fullstack developer with comprehensive training in HTML,
+              CSS, JavaScript, ES6, TailwindCSS, ReactJS, Redux,Node.js, Express.js, Mongodb,Sql
                Eager to apply newly acquired skills
                to real-world projects and contribute to a dynamic team. Seeking
               entry-level opportunities to kickstart a successfull carier in
