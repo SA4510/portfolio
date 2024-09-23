@@ -14,14 +14,14 @@ const About = () => {
             </div>
   
             <p className="text-lg sm:mt-20  ">
-              A dedicated and skilled frontend developer with specialization
-              in react.js, commited to staying current with new technologies 
+              A dedicated and skilled fullstack developer with specialization
+              in react.js,node.js commited to staying current with new technologies 
               and industry trends. As a recent graduate, i am seeking a role 
               which allow me to continue learning and perfecting my skills as 
               i provide high-quality work.
               <span className="block font-bold text-teal-500">
                 Tech Stacks - HTML, CSS, Tailwind, JavaScript, ES6, React,
-                Redux
+                Redux, Node.js, Express.js, Mongodb, Sql,
               </span>
               <span className="block font-bold text-teal-500">
                 Tools - Vs-code, Postman, Git, GitHub
